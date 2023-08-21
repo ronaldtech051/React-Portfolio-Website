@@ -1,436 +1,72 @@
-Contribution: 2022-10-14 10:00
+YouTube Tutorial on how I built this portfolio => https://youtu.be/ESHaail1eGc
 
-Contribution: 2022-10-14 10:01
+# Getting Started with Create React App
 
-Contribution: 2022-10-14 10:02
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2022-10-14 10:03
+## Available Scripts
 
-Contribution: 2022-10-14 10:04
+In the project directory, you can run:
 
-Contribution: 2022-10-18 10:00
+### `npm start`
 
-Contribution: 2022-10-18 10:01
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Contribution: 2022-10-19 10:00
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Contribution: 2022-10-20 10:00
+### `npm test`
 
-Contribution: 2022-10-21 10:00
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2022-10-21 10:01
+### `npm run build`
 
-Contribution: 2022-10-21 10:02
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2022-10-21 10:03
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2022-10-21 10:04
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2022-10-21 10:05
+### `npm run eject`
 
-Contribution: 2022-10-24 10:00
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Contribution: 2022-10-24 10:01
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2022-10-24 10:02
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Contribution: 2022-10-24 10:03
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Contribution: 2022-10-24 10:04
+## Learn More
 
-Contribution: 2022-10-24 10:05
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2022-10-24 10:06
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Contribution: 2022-10-24 10:07
+### Code Splitting
 
-Contribution: 2022-10-24 10:08
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Contribution: 2022-10-24 10:09
+### Analyzing the Bundle Size
 
-Contribution: 2022-10-24 10:10
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Contribution: 2022-10-24 10:11
+### Making a Progressive Web App
 
-Contribution: 2022-10-27 10:00
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Contribution: 2022-10-27 10:01
+### Advanced Configuration
 
-Contribution: 2022-10-27 10:02
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Contribution: 2022-10-28 10:00
+### Deployment
 
-Contribution: 2022-10-28 10:01
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Contribution: 2022-10-28 10:02
+### `npm run build` fails to minify
 
-Contribution: 2022-10-28 10:03
-
-Contribution: 2022-10-31 10:00
-
-Contribution: 2022-10-31 10:01
-
-Contribution: 2022-10-31 10:02
-
-Contribution: 2022-10-31 10:03
-
-Contribution: 2022-10-31 10:04
-
-Contribution: 2022-11-02 10:00
-
-Contribution: 2022-11-02 10:01
-
-Contribution: 2022-11-02 10:02
-
-Contribution: 2022-11-02 10:03
-
-Contribution: 2022-11-03 10:00
-
-Contribution: 2022-11-03 10:01
-
-Contribution: 2022-11-03 10:02
-
-Contribution: 2022-11-03 10:03
-
-Contribution: 2022-11-03 10:04
-
-Contribution: 2022-11-03 10:05
-
-Contribution: 2022-11-03 10:06
-
-Contribution: 2022-11-03 10:07
-
-Contribution: 2022-11-03 10:08
-
-Contribution: 2022-11-04 10:00
-
-Contribution: 2022-11-04 10:01
-
-Contribution: 2022-11-04 10:02
-
-Contribution: 2022-11-04 10:03
-
-Contribution: 2022-11-04 10:04
-
-Contribution: 2022-11-04 10:05
-
-Contribution: 2022-11-04 10:06
-
-Contribution: 2022-11-04 10:07
-
-Contribution: 2022-11-04 10:08
-
-Contribution: 2022-11-07 10:00
-
-Contribution: 2022-11-07 10:01
-
-Contribution: 2022-11-07 10:02
-
-Contribution: 2022-11-07 10:03
-
-Contribution: 2022-11-07 10:04
-
-Contribution: 2022-11-08 10:00
-
-Contribution: 2022-11-08 10:01
-
-Contribution: 2022-11-08 10:02
-
-Contribution: 2022-11-08 10:03
-
-Contribution: 2022-11-08 10:04
-
-Contribution: 2022-11-08 10:05
-
-Contribution: 2022-11-08 10:06
-
-Contribution: 2022-11-16 10:00
-
-Contribution: 2022-11-16 10:01
-
-Contribution: 2022-11-16 10:02
-
-Contribution: 2022-11-16 10:03
-
-Contribution: 2022-11-16 10:04
-
-Contribution: 2022-11-21 10:00
-
-Contribution: 2022-11-21 10:01
-
-Contribution: 2022-11-21 10:02
-
-Contribution: 2022-11-21 10:03
-
-Contribution: 2022-11-21 10:04
-
-Contribution: 2022-11-21 10:05
-
-Contribution: 2022-11-21 10:06
-
-Contribution: 2022-11-23 10:00
-
-Contribution: 2022-11-23 10:01
-
-Contribution: 2022-11-23 10:02
-
-Contribution: 2022-11-24 10:00
-
-Contribution: 2022-11-24 10:01
-
-Contribution: 2022-11-24 10:02
-
-Contribution: 2022-11-24 10:03
-
-Contribution: 2022-11-24 10:04
-
-Contribution: 2022-11-24 10:05
-
-Contribution: 2022-11-24 10:06
-
-Contribution: 2022-11-24 10:07
-
-Contribution: 2022-11-24 10:08
-
-Contribution: 2022-11-30 10:00
-
-Contribution: 2022-11-30 10:01
-
-Contribution: 2022-11-30 10:02
-
-Contribution: 2022-11-30 10:03
-
-Contribution: 2022-12-02 10:00
-
-Contribution: 2022-12-02 10:01
-
-Contribution: 2022-12-02 10:02
-
-Contribution: 2022-12-02 10:03
-
-Contribution: 2022-12-05 10:00
-
-Contribution: 2022-12-05 10:01
-
-Contribution: 2022-12-05 10:02
-
-Contribution: 2022-12-05 10:03
-
-Contribution: 2022-12-05 10:04
-
-Contribution: 2022-12-05 10:05
-
-Contribution: 2022-12-05 10:06
-
-Contribution: 2022-12-05 10:07
-
-Contribution: 2022-12-05 10:08
-
-Contribution: 2022-12-08 10:00
-
-Contribution: 2022-12-08 10:01
-
-Contribution: 2022-12-08 10:02
-
-Contribution: 2022-12-08 10:03
-
-Contribution: 2022-12-08 10:04
-
-Contribution: 2022-12-08 10:05
-
-Contribution: 2022-12-08 10:06
-
-Contribution: 2022-12-08 10:07
-
-Contribution: 2022-12-08 10:08
-
-Contribution: 2022-12-09 10:00
-
-Contribution: 2022-12-12 10:00
-
-Contribution: 2022-12-12 10:01
-
-Contribution: 2022-12-12 10:02
-
-Contribution: 2022-12-12 10:03
-
-Contribution: 2022-12-12 10:04
-
-Contribution: 2022-12-12 10:05
-
-Contribution: 2022-12-12 10:06
-
-Contribution: 2022-12-12 10:07
-
-Contribution: 2022-12-15 10:00
-
-Contribution: 2022-12-15 10:01
-
-Contribution: 2022-12-15 10:02
-
-Contribution: 2022-12-15 10:03
-
-Contribution: 2022-12-15 10:04
-
-Contribution: 2022-12-15 10:05
-
-Contribution: 2022-12-16 10:00
-
-Contribution: 2022-12-16 10:01
-
-Contribution: 2022-12-16 10:02
-
-Contribution: 2022-12-16 10:03
-
-Contribution: 2022-12-16 10:04
-
-Contribution: 2022-12-16 10:05
-
-Contribution: 2022-12-16 10:06
-
-Contribution: 2022-12-16 10:07
-
-Contribution: 2022-12-16 10:08
-
-Contribution: 2022-12-16 10:09
-
-Contribution: 2022-12-22 10:00
-
-Contribution: 2022-12-22 10:01
-
-Contribution: 2022-12-22 10:02
-
-Contribution: 2022-12-22 10:03
-
-Contribution: 2022-12-22 10:04
-
-Contribution: 2022-12-22 10:05
-
-Contribution: 2022-12-22 10:06
-
-Contribution: 2022-12-22 10:07
-
-Contribution: 2022-12-22 10:08
-
-Contribution: 2022-12-23 10:00
-
-Contribution: 2022-12-23 10:01
-
-Contribution: 2022-12-23 10:02
-
-Contribution: 2022-12-28 10:00
-
-Contribution: 2022-12-28 10:01
-
-Contribution: 2022-12-28 10:02
-
-Contribution: 2022-12-28 10:03
-
-Contribution: 2022-12-28 10:04
-
-Contribution: 2022-12-28 10:05
-
-Contribution: 2022-12-28 10:06
-
-Contribution: 2022-12-28 10:07
-
-Contribution: 2022-12-28 10:08
-
-Contribution: 2022-12-29 10:00
-
-Contribution: 2022-12-29 10:01
-
-Contribution: 2022-12-29 10:02
-
-Contribution: 2022-12-29 10:03
-
-Contribution: 2022-12-29 10:04
-
-Contribution: 2022-12-29 10:05
-
-Contribution: 2023-01-03 10:00
-
-Contribution: 2023-01-03 10:01
-
-Contribution: 2023-01-03 10:02
-
-Contribution: 2023-01-03 10:03
-
-Contribution: 2023-01-03 10:04
-
-Contribution: 2023-01-03 10:05
-
-Contribution: 2023-01-03 10:06
-
-Contribution: 2023-01-03 10:07
-
-Contribution: 2023-01-03 10:08
-
-Contribution: 2023-01-03 10:09
-
-Contribution: 2023-01-03 10:10
-
-Contribution: 2023-01-04 10:00
-
-Contribution: 2023-01-04 10:01
-
-Contribution: 2023-01-04 10:02
-
-Contribution: 2023-01-04 10:03
-
-Contribution: 2023-01-04 10:04
-
-Contribution: 2023-01-04 10:05
-
-Contribution: 2023-01-04 10:06
-
-Contribution: 2023-01-04 10:07
-
-Contribution: 2023-01-05 10:00
-
-Contribution: 2023-01-05 10:01
-
-Contribution: 2023-01-05 10:02
-
-Contribution: 2023-01-05 10:03
-
-Contribution: 2023-01-05 10:04
-
-Contribution: 2023-01-05 10:05
-
-Contribution: 2023-01-05 10:06
-
-Contribution: 2023-01-05 10:07
-
-Contribution: 2023-01-06 10:00
-
-Contribution: 2023-01-06 10:01
-
-Contribution: 2023-01-06 10:02
-
-Contribution: 2023-01-06 10:03
-
-Contribution: 2023-01-06 10:04
-
-Contribution: 2023-01-06 10:05
-
-Contribution: 2023-01-06 10:06
-
-Contribution: 2023-01-06 10:07
-
-Contribution: 2023-01-06 10:08
-
-Contribution: 2023-01-10 10:00
-
-Contribution: 2023-01-10 10:01
-
-Contribution: 2023-01-10 10:02
-
-Contribution: 2023-01-10 10:03
-
-Contribution: 2023-01-10 10:04
-
-Contribution: 2023-01-10 10:05
-
-Contribution: 2023-01-10 10:06
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
